@@ -1,0 +1,40 @@
+#DivUpperSecond{
+    font-weight: bolder;
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    padding-top:3%;
+    padding-bottom:3%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+#DivUpperFirst{
+
+    font-weight: bolder;
+    background-color: lightgray;
+    padding-top:1%;
+    padding-right: 1%;
+    padding-left: 1%;
+    text-align: right;
+    font-size: 17px;
+    color: black;
+}
+
+body{
+    background-color: black;
+    background-image: url("../Images/Sfondo2.gif");
+}
+
+footer{
+    margin-top: 42%;
+}
+
+#IntoFooter{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
