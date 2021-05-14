@@ -3,10 +3,10 @@ PONG
 Gioco pong in multiplayer creato in java e controllato con arduino.
 
 CONTRIBUTORI
--D'Ippolito Mattia
--Oricchio Daniele
--Cazzola Thomas
--Gatto Tommaso
+- D'Ippolito Mattia
+- Oricchio Daniele
+- Cazzola Thomas
+- Gatto Tommaso
 
 DIVISIONE LAVORO NEL PROGETTO
 - D'Ippolito e Oricchio -> Creazione classe Giocatore, JFrame, KeyEvent, ThreadDisegna
