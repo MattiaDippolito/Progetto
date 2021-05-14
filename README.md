@@ -4,3 +4,4 @@ Divisione lavoro nel progetto:
 - Oricchio e Gatto -> Creazione ThreadPalla e collisioni con i bordi
 - D'Ippolito, Cazzola, Oricchio e Gatto -> Collisioni con giocatori, Punteggi e Schermata finale.
 - D'Ippolito e Cazzola -> Prova della comunicazione seriale tra Arduino e Java.
+- D'ippolito, Oricchio, Cazzola, Gatto -> Creazione GUI di inizio gioco.
