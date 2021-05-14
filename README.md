@@ -4,8 +4,8 @@ Gioco pong in multiplayer creato in java e controllato con arduino.
 
 CONTRIBUTORI
 - D'Ippolito Mattia
-- Oricchio Daniele
 - Cazzola Thomas
+- Oricchio Daniele
 - Gatto Tommaso
 
 DIVISIONE LAVORO NEL PROGETTO
