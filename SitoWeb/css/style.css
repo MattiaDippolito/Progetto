@@ -124,12 +124,69 @@ nav ul li a:hover:after {
   color: #fff;
   padding: 30px;
   font-size: 3rem;
+  text-transform: uppercase;
 }
 
 .descrizione {
   font-size: 20px;
   color: #fff;
   text-align: center;
+}
+
+.contenuto {
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.materiale {
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  padding: 30px;
+  text-transform: uppercase;
+}
+
+.comandi {
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  padding: 30px;
+  text-transform: uppercase;
+}
+
+.comandi ul li {
+  list-style: none;
+  text-transform: none;
+}
+
+.comandi h5 {
+  font-size: 20px;
+}
+
+.comandi h1 {
+  padding: 10px;
+}
+
+.tabellaMateriale {
+  border-collapse: collapse;
+  margin: 25px 0;
+  min-width: 400px;
+  border-radius: 5px 5px 5px 5px;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tabellaMateriale thead tr {
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+}
+
+.tabellaMateriale th,
+.tabellaMateriale td {
+  padding: 12px 15px;
+  text-transform: none;
 }
 
 .img-pong {
@@ -140,9 +197,10 @@ nav ul li a:hover:after {
 
 .descrizione h3 {
   padding: 30px;
+  text-transform: uppercase;
 }
 
-.descrizione p{
+.descrizione p {
   width: 50%;
   margin: auto;
 }
