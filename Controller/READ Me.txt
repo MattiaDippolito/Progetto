@@ -1,20 +1,13 @@
 Funzionamento Controller:
 
 -Luce bianca lampeggiante appena connesso al pc
--Luce bianca e verde insieme connessione confermata
-
 -Luce bianca fissa indica che il gioco è iniziato
--Luce bianca e rossa insieme indicano che il gioco è terminato
+
+-Luce bianca e verde lampeggiante indicano che si è fatto un punto
+-Luce bianca e rossa lampeggiante indicano che si ha fatto un punto
+-Luce bianca e verde insieme indicano la vittoria della partita
+-Luce bianca e rossa insieme indicano la sconfitta della partita
 
 -L'inclinazione del joystick verso l'alto muoverà la barra in alto
 -L'inclinazione del joystick verso il basso muoverà la barra in basso
 -Se il joystick rimarrà al centro la barra non si muoverà
-
-----------------------------------------------------------------------------------------
-
-Funzionamento Gioco:
-
-Inizialmente la pallina inierà a muoversi in maniera randomica verso il lato di uno dei 2 giocatori.
-Il giocatore dovrà muovere la barra in modo tale da respingere la pallina e rimandarla verso l'altro giocatore.
-Chi non riesce a prendere la pallina da un punto a favore dell'avversario.
-Il primo che arriva a 5 vince.

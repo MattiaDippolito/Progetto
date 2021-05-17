@@ -11,7 +11,6 @@ Quando il gioco inizia, Arduino stamperà:
 	- direzione di movimento tramite un carattere ('w'= su e 's' = giu)
 
 ------------------------------------------------------------------------------------------------------
-
 Invio dati da Java ad Arduino
 
 Arduino aspetterà un carattere in seriale per poter iniziare a funzionare.
